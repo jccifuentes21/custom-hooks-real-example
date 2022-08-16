@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/custom-hooks-real-example/static/css/main.6086e6de.css",
+    "main.js": "/custom-hooks-real-example/static/js/main.0b299961.js",
+    "index.html": "/custom-hooks-real-example/index.html",
+    "main.6086e6de.css.map": "/custom-hooks-real-example/static/css/main.6086e6de.css.map",
+    "main.0b299961.js.map": "/custom-hooks-real-example/static/js/main.0b299961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6086e6de.css",
+    "static/js/main.0b299961.js"
+  ]
+}
